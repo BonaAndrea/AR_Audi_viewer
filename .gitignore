@@ -1,0 +1,13 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+MemoryCaptures/
+[Rr]ecycleBin/
+.DS_Store
+*.apk
+*.aab
+*.unitypackage
